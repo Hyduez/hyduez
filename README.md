@@ -4,4 +4,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: undevoted@proton.me
 - 😄 Pronouns: He/Him
  
-[![Spotify](https://spotify-hyduez.vercel.app/api/spotify?background_color=2b2d42&border_color=ffffff)](https://github.com/hyduez)
+[![Spotify](https://spotify-hyduez.vercel.app/api/spotify?background_color=121212&border_color=ffffff)](https://github.com/hyduez)
